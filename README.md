@@ -1,5 +1,6 @@
 # Challenge | Pipeline of Temperatures and Wildfires
 
+![slider](captured.gif)
 
 ## Introduction
 
@@ -23,7 +24,9 @@ Since climate change and wildfires are hot subjects (pun intended) and they seem
 
 ## Deliverables
 
-A presentation on 'Google Slides'.
+A presentation on 'Google Slides':
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8P5UlOG6frC8VQuSVYxfRyf-pB0OybSnk7LNptOp7lAQ4y2lgbdlDmcPN2oeIlfYIsQTnR0v1AYyq/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 A csv with the filtered dataset.
 
