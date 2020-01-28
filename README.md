@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Since climate change and wildfires are hot subjects (pun intended) and they seem to have a correlation, relevant dataframes were searched to investigate such relationships, and also to investigate changes along the years. Enough data was found to understand such relation in the US, which was then illustrated in a hopefuly informative way.
+Since climate change and wildfires are topics that seem to have a correlation, relevant dataframes were searched to investigate such relationships, and also to investigate changes along the years. Enough data was found to understand such relation in the US, which was then illustrated in a hopefuly informative way.
 
 
 ## The steps
@@ -16,7 +16,7 @@ Since climate change and wildfires are hot subjects (pun intended) and they seem
 
 ## Stones along the way
 
-- A Teacher Assistant had to code the translation of SQL into Python.
+- Stablishing the connection from SQL to Python was harder than expected.
 - Issues pushing big datasets into git. Eventually crashed the repo for commiting and not pushing it.
 - Temperatures dataset had a minimal timeframe of a month.
 - Wildfires, on the other hand, had daily outputs, but totalled a period of just 24 years, and just in the US.
@@ -26,7 +26,7 @@ Since climate change and wildfires are hot subjects (pun intended) and they seem
 
 A presentation on 'Google Slides':
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8P5UlOG6frC8VQuSVYxfRyf-pB0OybSnk7LNptOp7lAQ4y2lgbdlDmcPN2oeIlfYIsQTnR0v1AYyq/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+> https://docs.google.com/presentation/d/e/2PACX-1vT8P5UlOG6frC8VQuSVYxfRyf-pB0OybSnk7LNptOp7lAQ4y2lgbdlDmcPN2oeIlfYIsQTnR0v1AYyq/embed?start=false&loop=true&delayms=3000
 
 A csv with the filtered dataset.
 
